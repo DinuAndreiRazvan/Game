@@ -1,5 +1,5 @@
-#_Wordle Game Project_
-Implemented in C, using Ncurses
+# **Wordle Game Project**
+## Implemented in C, using Ncurses
 
 Compile:
 ```
